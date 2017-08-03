@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\bisraelwalter\documents\bitbucket\freecell\freecell\freecell\array.h(28): warning C4522: 'Array<Deck::Card>': multiple assignment operators specified
+  c:\users\bisraelwalter\documents\bitbucket\freecell\freecell\freecell\deck.h(14): note: see reference to class template instantiation 'Array<Deck::Card>' being compiled
+  FreecellGame.vcxproj -> C:\Users\Bisraelwalter\Documents\Bitbucket\freecell\Freecell\Debug\FreecellGame.exe
+  FreecellGame.vcxproj -> C:\Users\Bisraelwalter\Documents\Bitbucket\freecell\Freecell\Debug\FreecellGame.pdb (Partial PDB)
